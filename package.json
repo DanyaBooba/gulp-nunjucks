@@ -1,0 +1,16 @@
+{
+  "name": "gulp-nunjucks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "author": "Daniil Dybka",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-nunjucks": "^5.1.0"
+  }
+}
